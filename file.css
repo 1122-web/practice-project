@@ -1,0 +1,195 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    
+   font-size: 16px;
+box-sizing: border-box;
+}
+.container-fluid
+{
+    background-color:black;
+    height:60px;
+}
+
+.btn
+{
+    float:right;
+    background-color: blue;
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-right:40px;
+
+}
+.container-fluid a
+{
+    font-size: 30px;
+    color:white;
+    margin-right:20px;
+}
+.main1
+{
+    background-color:black;
+    height:300px;
+    width:450px;
+    margin:auto;
+    margin-top:70px;
+    display:flex;
+    border:2px solid black;
+    border-radius:10px;
+}
+.image img
+{
+margin-top:10px;
+margin-left:10px;
+}
+.text
+{
+    color:aliceblue;
+
+width:400px;
+    font-size: 25px;
+    padding-top:180px;
+    margin-left:2px;
+    
+
+
+}
+.smtext
+{
+color:aliceblue;
+font-size: 25px;
+padding-top:15px;
+padding-right:20px;
+
+}
+.minidiv
+{
+    margin:auto;
+   
+    height:130px;
+    width:450px;
+    margin-top:40px;
+    padding-left:40px;
+    
+    
+}
+.btn2
+{
+    background-color: blue;
+height:40px;
+width:190px;
+color:aliceblue;
+border:2px solid blue;
+    
+}
+.btn3
+{
+    background-color:black;
+color:aliceblue;
+height:40px;
+width:190px;
+
+
+}
+.main2
+{
+    background-color: black;
+    height:900px;
+    padding-top:70px;
+
+    
+
+}
+.minidiv2
+{
+    background-color:azure;
+margin:auto;
+    color:black;
+    width:700px;
+    height: 370px;
+    padding-left:40px;
+    padding-top:30px;
+
+}
+span{
+    font-size: 25px;
+}
+.txt{
+    color:aliceblue;
+    margin:auto;
+    align-items: center;
+
+margin-top:60px;
+padding-left:320px;
+font-size:25px;
+
+}
+.video 
+{
+margin:auto;
+height:200px;
+width:450px;
+background-color: aliceblue;
+margin-top:60px;
+color: aliceblue;
+}
+.icon
+{
+    color:blue;
+}
+.main3
+{
+    width:700px;
+    height: 500px;
+    
+    margin: auto; 
+    margin-top:100px;
+    display:flex;
+    flex-direction:column;
+
+
+}
+.main3 ul
+{
+margin-top:20px;
+}
+.main3 ul li
+{
+    background-color: black;
+    margin:10px;
+    color:aliceblue;
+    height:50px;
+    padding:10px;
+    padding-left:50px;
+
+
+
+}
+.link2
+{
+    margin-top:50px;
+}
+.link2 ul li
+{
+    padding:10px;
+    padding-left:50px;
+
+}
+.footer1
+{
+    background-color: black;
+    margin-top: 100px;
+    height:400px;
+}
+.cnt{
+margin: auto;
+font-size: 25px;
+color:aliceblue;
+margin:auto;
+width:200px;
+padding-top:200px;
+}
+
